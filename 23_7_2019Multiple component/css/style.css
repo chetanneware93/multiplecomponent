@@ -1,0 +1,46 @@
+table {
+  background-color: #333;
+}
+label{
+  margin-left:10px;
+}
+.searchbox{
+  width: 300px;
+}
+.data{
+  background-color: #333;
+  padding: 40px;
+}
+table{
+  border: solid black 1px;
+  margin-top: 10px;
+  text-align: center;
+  width: 50%;
+  padding: 20px;
+  font-family: Lato-Regular;
+  font-size: 15px;
+  color: gray;
+  line-height: 1.4;
+}
+p{
+  color: #00ad5f;
+}
+table tr {
+  border: solid black 1px;
+}
+table td{
+  border: solid black 1px;  
+}
+table th{
+  border: solid black 1px; 
+  text-align: center;
+  color: #00ad5f;
+  background-color: gray;
+}
+.header {
+  color: #00ad5f;
+}
+.academic{
+margin-top: 20px;
+
+}
